@@ -1,0 +1,16 @@
+{
+    "programming_languages": ["python", "java", "c++", "javascript", "typescript", "go", "rust"],
+    "ml": ["tensorflow", "pytorch", "scikit-learn", "xgboost", "lightgbm", "pandas", "numpy"],
+    "nlp": ["spacy", "transformers", "bert", "gpt", "nltk"],
+    "cv": ["opencv", "cnn", "resnet", "yolo", "segmentation"],
+    "data": ["sql", "postgresql", "mysql", "mongodb", "spark", "hadoop", "excel"],
+    "cloud": ["aws", "gcp", "azure", "docker", "kubernetes"],
+    "devops": ["ci/cd", "git", "github actions", "terraform"],
+    "soft": ["communication", "leadership", "teamwork", "problem-solving", "mentoring"],
+    "llm": ["llm", "chatgpt", "gpt-4", "gpt-3.5", "claude", "llama", "mistral", "prompt engineering", "rag", "retrieval augmented generation", "vector database", "faiss", "pinecone", "weaviate", "langchain", "llamaindex", "openai api", "anthropic", "hugging face", "transformers", "peft", "lora", "qlora", "alpaca", "instruct", "sft", "rlhf", "dpo"],
+    "mlops": ["mlops", "mlflow", "kubeflow", "vertex ai", "sagemaker", "azure ml", "ray", "ray serve", "airflow", "dagster", "great expectations", "evidently ai"],
+    "evaluation": ["bleu", "rouge", "bertscore", "mteb", "human eval", "prompt eval", "guardrails", "red teaming"],
+    "safety": ["privacy", "safety", "bias", "toxicity", "guardrail", "content moderation"],
+    "observability": ["tracing", "monitoring", "prometheus", "grafana", "opentelemetry"]
+  }
+  
